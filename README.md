@@ -91,9 +91,9 @@ Check out the Features list
 My hack only reads and writes game memory, it **does not modify** any game files or network traffic. However, use at your own risk.
 
 
-### Can I customize the hotkey?
+### Can I customize the hotkeys?
 
-Yes. The default toggle key is `[Insert]`, but you can change it in the settings tab.
+Yes. There is a tab to edit all the hotkeys for selected features.
 
 
 ### How to uninstall?
