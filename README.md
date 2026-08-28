@@ -70,7 +70,7 @@ Check out the Features list
 
 ---
 
-## How to Install
+## How do I use it?
 
 1. Download the [latest release build](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip) from repo's Releases page.
 
@@ -80,7 +80,7 @@ Check out the Features list
 
 4. Run the cheat (`PEAK-github_2.10.exe`).
 
-5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
+5. Enjoy.
 
 ---
 
