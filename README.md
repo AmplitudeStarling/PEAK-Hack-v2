@@ -1,4 +1,4 @@
-# PEAK Hack v2 (Cheat menu) 06-Sep-2026
+# PEAK Hack v2 (Cheat menu) 14-Sep-2026
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip)
 [![GitHub release](https://img.shields.io/badge/Release-2.10-blue?style=for-the-badge)](https://github.com/AmplitudeStarling/PEAK-Hack-v2/releases/download/v2/PEAK_v2.10.zip)
@@ -80,7 +80,7 @@ Check out the Features list
 
 4. Run the cheat (`PEAK-github_2.10.exe`).
 
-5. Enjoy.
+5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
 
